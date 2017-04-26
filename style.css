@@ -8,3 +8,6 @@ Text Domain: schema
 
 @import url("../mts_schema/style.css");
 
+.sticky-navigation {
+    background-color: #0274BE;
+}
