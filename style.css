@@ -1,0 +1,10 @@
+/*
+Theme Name: SchemaChild
+Version: 1.0
+Description: A child theme of Schema by MyThemeShop
+Template: mts_schema
+Text Domain: schema
+*/
+
+@import url("../mts_schema/style.css");
+
